@@ -1,7 +1,7 @@
 /*
-Time complexity  : 
-Space complexity :
-My approach :
+Time complexity  :  O(N* 2^N)
+Space complexity :   O(N)
+My approach :   Using backtracking on strings.
 */
 
 class Solution {
